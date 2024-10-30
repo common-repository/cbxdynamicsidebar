@@ -1,0 +1,204 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Sidebar - Custom Sidebar/Custom Widget area\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-07 19:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: admin/class-cbxdynamicsidebar-admin.php:80
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:137
+msgid "Manage Widgets"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:169
+msgctxt "Post Type General Name"
+msgid "Sidebars"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:170
+msgctxt "Post Type Singular Name"
+msgid "Sidebar"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:171
+msgid "CBX Sidebars"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:172
+msgid "Parent Sidebar:"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:173
+msgid "All Sidebars"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:174
+msgid "View Sidebar"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:175
+msgid "Add New Sidebar"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:176
+msgid "Add New"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:177
+msgid "Edit Sidebar"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:178
+msgid "Update Sidebar"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:179
+msgid "Search Sidebar"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:180
+msgid "Not found"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:181
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:184
+msgid "cbxsidebar"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:185
+msgid "Dynamic Sidebars"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:394
+msgid "Sidebar Definitions"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:409
+msgid "Shortcode Usages:"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:417
+msgid "Yet Another Dynamic Sidebar"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:436
+msgid "Sidebar Enabe/Disable"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:444
+msgid "No"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:450
+msgid "Yes"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:457
+msgid "Description"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:467
+msgid "CSS Class"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:477
+msgid "Before Widget Html Wrapping"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:488
+msgid "After Widget Html Wrapping"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:499
+msgid "Before Title Html Wrapping"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:510
+msgid "After Title Html Wrapping"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:624
+#: admin/class-cbxdynamicsidebar-admin.php:677
+msgid "Select CBX Sidebar Post"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:637
+msgid "None"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:638
+msgid "Left"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:639
+msgid "Right"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:672
+msgid "CBX Dynamic Sidebar"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:676
+msgid "CBX Dynamic Sidebar Settings"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:680
+msgid "Html Class"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:682
+msgid "Html ID"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:684
+msgid "Select Layout"
+msgstr ""
+
+#: admin/class-cbxdynamicsidebar-admin.php:771
+msgid "CBX Blocks"
+msgstr ""
+
+#: includes/class-cbxdynamicsidebar-helper.php:36
+msgid "Built in post types"
+msgstr ""
+
+#: includes/class-cbxdynamicsidebar-helper.php:97
+#: includes/class-cbxdynamicsidebar-helper.php:112
+msgid "Guest"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX Sidebar - Custom Sidebar/Custom Widget area"
+msgstr ""
+
+#. Description of the plugin
+msgid "Dynamic sidebar for wordpress using custom post type and shortcode"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/cbx-dynamic-sidebar-for-wordpress/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeboxr.com"
+msgstr ""

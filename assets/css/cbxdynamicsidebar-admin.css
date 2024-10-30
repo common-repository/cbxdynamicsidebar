@@ -1,0 +1,22 @@
+.cbxsidebarshortcodetrigger {
+    margin-top: 5px;
+    margin-left: 4px;
+    float: left;
+    display: inline-block;
+}
+
+.cbxsidebarshortcode, .cbxsidebarshortcode-text {
+    background: #f7f7f7;
+    border: 1px solid #ccc !important;
+    padding: 3px 6px !important;
+    float: left;
+    display: inline-block;
+}
+
+.cbxsidebarshortcode-text {
+    max-width: 125px;
+}
+
+.cbxsidebarshortcode-flexi, .cbxsidebarshortcode-text-flexi {
+    max-width: 100% !important;
+}
